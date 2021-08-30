@@ -1,0 +1,17 @@
+<! -- EJERCICIO PROFESOR -->
+
+<svg width=900 height=900>
+
+<! -- Maso -->
+<polygon points="4 295 297 4 444 151 152 444"/>
+
+<! -- Palo pequeño -->
+<polygon points="371 298 299 370 392 464 465 391"/>
+
+<! -- Palo grande -->
+<polygon points="502 574 575 501 809 734 737 808"/>
+
+<! -- Cincel -->
+<polygon points="82 816 263 551 379 528 389 539 554 374 536 355 811 84 884 157 608 429 589 410 426 575 435 585 413 696 148 883"/>
+
+</svg>
